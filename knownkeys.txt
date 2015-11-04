@@ -1,0 +1,67 @@
+key.attack
+key.use
+key.forward
+key.left
+key.back
+key.right
+key.jump
+key.sneak
+key.drop
+key.inventory
+key.chat
+key.playerlist
+key.pickItem
+key.command
+key.screenshot
+key.togglePerspective
+key.smoothCamera
+key.sprint
+key.streamStartStop
+key.streamPauseUnpause
+key.streamCommercial
+key.streamToggleMic
+key.fullscreen
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+key.computercraftedu.open_turtle_remote
+key.computercraftedu.drop_turtle_remote
+key.lasers
+waila.keybind.wailaconfig
+waila.keybind.wailadisplay
+waila.keybind.liquid
+waila.keybind.recipe
+waila.keybind.usage
+invtweaks.key.sort
+key.mw_open_gui
+key.mw_new_marker
+key.mw_next_map_mode
+key.mw_next_marker_group
+key.mw_teleport
+key.mw_zoom_in
+key.mw_zoom_out
+key.mw_underground_mode
+Open MPS Keybind GUI
+Go Down (MPS Flight Control)
+Cycle Tool Backward (MPS)
+Cycle Tool Forward (MPS)
+Zoom (MPS)
+Cosmetic (MPS)
+Armor Effects
+Charge
+Extra Function
+Fire Projectile
+Change Mode
+key.cofh.empower
+key.cofh.multimode
+railcraft.keybind.loco.faster
+railcraft.keybind.loco.slower
+railcraft.keybind.loco.mode
+railcraft.keybind.loco.whistle
+key.control
